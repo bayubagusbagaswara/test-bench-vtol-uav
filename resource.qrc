@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/bhimasena.jpg</file>
+    </qresource>
+</RCC>
